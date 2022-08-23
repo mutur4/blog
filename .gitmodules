@@ -1,0 +1,4 @@
+[submodule "infosec_blog/public"]
+	path = infosec_blog/public
+	url = https://github.com/mutur4/mutur4.github.io
+	branch = main
